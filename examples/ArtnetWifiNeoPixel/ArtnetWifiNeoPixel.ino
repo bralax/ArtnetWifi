@@ -4,8 +4,7 @@ Adafruit's NeoPixel library: https://github.com/adafruit/Adafruit_NeoPixel
 This example may be copied under the terms of the MIT license, see the LICENSE file for details
 */
 
-#include <ESP8266WiFi.h>
-#include <WiFiUdp.h>
+#include <WifiNINA.h>
 #include <ArtnetWifi.h>
 #include <Adafruit_NeoPixel.h>
 
