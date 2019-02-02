@@ -1,10 +1,10 @@
 # ArtnetWifi
 
-An Art-Net library for Wifi-Arduino's (aka. ESP8266 or ESP32)
+An Art-Net library for Wifi-Arduino's (updated for ArduinoUnoWifi and new boards)
 
 Note: this library assumes you are using a wifi module
 
-Based on https://github.com/natcl/Artnet [master](https://github.com/natcl/Artnet/archive/master.zip)
+Based on https://github.com/natcl/Artnet [master](https://github.com/natcl/Artnet/archive/master.zip) and https://github.com/rstephan/ArtnetWifi
 
 ## Installation
 
