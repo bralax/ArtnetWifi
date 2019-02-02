@@ -5,12 +5,7 @@ Stephan Ruloff 2016
 https://github.com/rstephan
 
 */
-#if defined(ARDUINO_ARCH_ESP32)
-#include <WiFi.h>
-#else
-#include <ESP8266WiFi.h>
-#endif
-#include <WiFiUdp.h>
+#include <WifiNINA.h>
 #include <ArtnetWifi.h>
 
 //Wifi settings
